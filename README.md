@@ -1,2 +1,2 @@
 # Test1
-my repo
+my repository
